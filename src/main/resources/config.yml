@@ -1,0 +1,16 @@
+countdown: 5
+required: 2
+broadcast:
+  enable: false
+  messages:
+  - |-
+      DO IT, JUST DO IT! DON'T LET YOUR DREAMS BE DREAMS.
+      YESTERDAY YOU SAID TOMORROW SO JUST DO IT! MAKE YOUR DREAMS COME TRUE!
+      SOME PEOPLE DREAM OF SUCCESS, WHILE YOU'RE GOING TO WAKE UP AND WORK
+      HARD AT IT! NOTHING IS IMPOSSIBLE.. YOU SHOULD GET TO THE POINT WHERE
+      ANYONE ELSE WOULD QUIT AND YOU'RE NOT GOING TO STOP THERE. NO!
+      WHAT ARE YOU WAITING FOR? DO IT. JUST DO IT! YES YOU CAN! JUST DO IT!
+      IF YOU'RE TIRED OF STARTING OVER, STOP GIVING UP.
+  - HEY, LISTEN!
+  - Hello, are you there?
+  - 'You have been elected member of the month by #{online_player}, type ''/claim'' to receive your reward!'
