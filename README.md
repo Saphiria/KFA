@@ -1,4 +1,4 @@
-KFA - Pacience is key!
+KFA - Patience is key!
 ===
 
 KFA, because we can't spell.
